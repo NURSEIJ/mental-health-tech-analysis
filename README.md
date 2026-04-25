@@ -47,3 +47,75 @@ This project analyzes the **OSMI Mental Health in Tech Survey 2016** dataset usi
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3.12**
+- **pandas** - Data manipulation
+- **scikit-learn** - K-Means clustering, PCA, preprocessing
+- **matplotlib & seaborn** - Visualizations
+- **Jupyter Notebook** - Interactive analysis
+
+---
+
+## 📊 Visualizations
+
+| Visualization | Purpose |
+|---------------|---------|
+| Elbow Method | Determine optimal number of clusters |
+| Silhouette Score | Validate cluster quality |
+| PCA Scatter Plot | 2D visualization of clusters |
+| t-SNE Projection | Alternative cluster visualization |
+| Bar Chart | Cluster size distribution |
+
+---
+
+## 💡 HR Recommendations
+
+### Cluster 0 (Anxious but Aware)
+- Implement anonymous mental health support channels
+- Provide manager training on compassionate communication
+- Create peer support groups
+
+### Cluster 1 (Supported and Open)
+- Leverage as mental health ambassadors
+- Feature in company communications
+- Gather feedback on current programs
+
+### Cluster 2 (Uncertain and Uninformed)
+- Launch company-wide mental health awareness campaign
+- Clarify existing mental health policies and benefits
+- Host all-hands meetings with mental health focus
+
+---
+
+## 📚 References
+
+Key academic sources supporting this analysis:
+
+- Anttila et al. (2025) - Cluster analysis in occupational health
+- Sharma et al. (2025) - ML for employee mental health analysis
+- Ramesh Naidu et al. (2025) - OSMI dataset ML framework
+- Patel et al. (2025) - Digital transformation and IT mental health
+
+*Full bibliography available in the report.*
+
+---
+
+## 👩‍💻 Author
+
+**Ijeoma Eze**  
+Applied Artificial Intelligence Student  
+https://github.com/NURSEIJ/mental-health-tech-analysis
+
+---
+
+
+
+## 🙏 Acknowledgments
+
+- Open Sourcing Mental Illness (OSMI) for providing the survey data
+- IU University for the Unsupervised Machine Learning course
+- Course instructors for guidance on this case study
